@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/sat-team-project/",
+    
     "preview": "vite preview"
   },
   "devDependencies": {
